@@ -1,0 +1,41 @@
+.divp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: aliceblue;
+
+}
+
+.fb{
+    justify-content: center;
+    
+}
+.fb h1{
+    color: blue;
+ font-size: 8vh;
+
+
+}
+.fb h3{
+    font-size: 4vh;
+}
+
+.fb2{
+    background-color:white;
+    padding: auto;
+    border-radius: 0.5em;
+    height: 45%;
+    width: 25%;
+    
+  
+}
+.fb2 b{
+    background-color: yellowgreen;
+}
+button{
+    background-color: blue;
+    padding: 10px;
+    size: 20px;
+    width: 30vh;
+}
